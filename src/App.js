@@ -18,7 +18,7 @@ export default function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="httfooters://github.com/DeyaSHTA93/shecodes-react-weather-app"
+            href="https://github.com/DeyaSHTA93/shecodes-react-weather-app"
             target="_blank"
             rel="noreferrer"
           >
