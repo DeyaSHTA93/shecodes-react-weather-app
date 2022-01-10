@@ -26,7 +26,7 @@ export default function WeatherForecastDay(props) {
       "Saturday",
     ];
 
-    return days(day);
+    return days[day];
   }
 
   return (
